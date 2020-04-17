@@ -17,7 +17,7 @@
 #         print('   y = %d'%(y))
 #     print('======')
 
-# 9*9 nultiple table
+# 9*9 nultiple  table
 # version 1
 for x in range(1,10):
     for y in range(1,10):
