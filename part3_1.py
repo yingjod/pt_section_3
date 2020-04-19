@@ -1,6 +1,9 @@
 
 
 def sum_total(a,b):
+    """
+    sum a to b all of the numbers
+    """
     ans = 0
     for i in range (a,b+1):
         ans += i
